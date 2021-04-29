@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checked="true"
+        android:iconTint="@color/line"
+        android:id="@+id/mess"
+        android:icon="@drawable/mess"
+        android:title="Tin nhắn" />
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/contact"
+        android:title="Danh bạ" />
+    <item
+        android:id="@+id/group"
+        android:icon="@drawable/group"
+        android:title="Nhóm" />
+    <item
+        android:id="@+id/diary"
+        android:icon="@drawable/clock"
+        android:title="Nhật ký" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/menu"
+        android:title="Thêm" />
+
+
+</menu>

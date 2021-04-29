@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/create_group"
+        android:icon="@drawable/add_group"
+        android:title="Tạo nhóm" />
+
+    <item
+        android:id="@+id/add_frend"
+        android:icon="@drawable/user"
+        android:title="Thêm bạn" />
+
+    <item
+        android:id="@+id/qr_code"
+        android:icon="@drawable/qr_code"
+        android:title="Quét mã QR" />
+
+    <item
+        android:id="@+id/schedule"
+        android:icon="@drawable/calendar"
+        android:title="Lịch Zalo" />
+
+    <item
+        android:id="@+id/calculator"
+        android:icon="@drawable/computer"
+        android:title="Zalo Máy Tính" />
+
+    <item
+        android:id="@+id/send_file"
+        android:icon="@drawable/file"
+        android:title="Truyền File" />
+
+</menu>
